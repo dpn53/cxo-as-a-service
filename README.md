@@ -1,6 +1,6 @@
 # CXO-as-a-Service (Personal C-Suite): Onboarding & Setup Guide
 
-Welcome to the **CXO-as-a-Service (Personal C-Suite)** framework. This system is designed to turn any advanced AI chat assistant (such as Antigravity or a local LLM setup) into your personal executive team—acting as your CEO, CFO, COO, and Chief Health Officer.
+Welcome to the **CXO-as-a-Service (Personal C-Suite)** framework. This system is designed to turn any advanced AI chat assistant (such as Antigravity or a local LLM setup) into your personal executive team-acting as your CEO, CFO, COO, and Chief Health Officer.
 
 By adopting specialized executive "lenses" during check-ins, this system audits your professional projects, financial runway, daily operations, and holistic capacity (sleep, exercise, spiritual grounding) in a structured, unified conversation.
 
