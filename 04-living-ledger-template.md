@@ -1,3 +1,9 @@
+---
+title: "Living Ledger (Master Life & Project Dashboard)"
+version: "0.3"
+domain: "Single Source of Truth & Executive Telemetry"
+---
+
 # Living Ledger (Master Life & Project Dashboard)
 
 **Last Updated:** [YYYY-MM-DD] (Template Instance)

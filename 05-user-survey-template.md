@@ -1,8 +1,14 @@
+---
+title: "User Survey Blueprint Template"
+version: "0.3"
+domain: "Diagnostic Check-in Survey Architecture"
+---
+
 # User Survey - [Month DD, YYYY]
 
 **Context:** [Initialize current project state, active vacation/onboarding windows, or recent strategic transitions].
 
-Please review the options and diagnostic questions below, and record your choices directly inside your daily update file (`YYYYMMDD_HHMM Update.md`) for the AI to reconcile.
+Please review the options and diagnostic questions below, and record your choices directly inside your daily update file (`YYYYMMDD-HHMM-update.md`) for the AI to reconcile.
 
 ---
 

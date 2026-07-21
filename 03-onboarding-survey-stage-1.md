@@ -1,6 +1,12 @@
+---
+title: "Stage 1 Onboarding: Discovery Survey"
+version: "0.3"
+domain: "Personal C-Suite Onboarding Intake"
+---
+
 # CXO Onboarding: Stage 1 Life Discovery Survey
 
-Welcome to your **Personal C-Suite Onboarding**. Before setting up your `living_ledger.md`, your AI Executive Engine needs to understand your life context, goals, and friction points.
+Welcome to your **Personal C-Suite Onboarding**. Before setting up your `living-ledger.md`, your AI Executive Engine needs to understand your life context, goals, and friction points.
 
 Please answer the following 5 open-ended questions. Your responses will be used to customize your personal CFO, COO, CHO, and CTO roles.
 
@@ -40,4 +46,4 @@ Please answer the following 5 open-ended questions. Your responses will be used 
 
 ### Next Step:
 Once you complete this survey, paste it to your AI Executive Assistant and say:
-> *"I have completed Stage 1 Onboarding. Please process my answers and generate my Stage 2 Customized C-Suite Role Mapping Matrix and initial living_ledger.md."*
+> *"I have completed Stage 1 Onboarding. Please process my answers and generate my Stage 2 Customized C-Suite Role Mapping Matrix and initial living-ledger.md."*
